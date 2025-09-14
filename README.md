@@ -92,20 +92,9 @@ REST API endpoints for mobile app integration
 Docker containerization for deployment
 
 # 📸 Screenshots
+<img width="1856" height="893" alt="Screenshot 2025-09-14 145406" src="https://github.com/user-attachments/assets/0e645edb-c1b4-4de0-895f-c726e0ca25b7" />
 
-### Homepage
-![Homepage](https://github.com/user-attachments/assets/2967e2e8-55b0-42ef-9de6-c1434a4c46df)
 
-### Product Page
-![Product](https://github.com/user-attachments/assets/3a6b1479-7053-459b-8a90-c18cf937cb23)
 
-### Cart
-![Cart](https://github.com/user-attachments/assets/0a1fc1f6-220f-4a9d-b56c-40d5b465a44c)
-
-### Checkout
-![Checkout](https://github.com/user-attachments/assets/311794d1-489d-4e01-97f7-f07946efe419)
-
-### User Profile
-![Profile](https://github.com/user-attachments/assets/1fb85216-694f-4fc8-b1e4-3cbd2b5651c7)
 
 
