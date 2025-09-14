@@ -95,9 +95,11 @@ Docker containerization for deployment
 <img width="941" height="445" alt="image" src="https://github.com/user-attachments/assets/f7afe95f-c2c4-403c-bd56-3f536aabc93b" >
 
 <img width="928" height="446" alt="image" src="https://github.com/user-attachments/assets/81919471-88c7-4092-a319-b7f8813c5489" >
+<img width="1856" height="893" alt="Screenshot 2025-09-14 145406" src="https://github.com/user-attachments/assets/50b3569f-81ee-4a97-a176-c2d0484aa147" />
 
 <img width="959" height="438" alt="image" src="https://github.com/user-attachments/assets/80bdbdb4-edee-4fdc-8bfa-01e480782cb9" >
 
 <img width="956" height="416" alt="image" src="https://github.com/user-attachments/assets/3648282b-6d82-4354-89ec-9685592c81f8" >
 
 <img width="945" height="383" alt="image" src="https://github.com/user-attachments/assets/c113d80a-8e65-4410-bae5-5b3d8d9a8409" >
+
