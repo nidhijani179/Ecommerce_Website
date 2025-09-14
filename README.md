@@ -91,10 +91,21 @@ REST API endpoints for mobile app integration
 
 Docker containerization for deployment
 
-<img width="1881" height="890" alt="Image" src="https://github.com/user-attachments/assets/2967e2e8-55b0-42ef-9de6-c1434a4c46df" />
-<img width="1856" height="893" alt="Image" src="https://github.com/user-attachments/assets/3a6b1479-7053-459b-8a90-c18cf937cb23" />
-<img width="1919" height="876" alt="Image" src="https://github.com/user-attachments/assets/0a1fc1f6-220f-4a9d-b56c-40d5b465a44c" />
-<img width="1913" height="833" alt="Image" src="https://github.com/user-attachments/assets/311794d1-489d-4e01-97f7-f07946efe419" />
-<img width="1890" height="766" alt="Image" src="https://github.com/user-attachments/assets/1fb85216-694f-4fc8-b1e4-3cbd2b5651c7" />
-https://github.com/user-attachments/assets/2967e2e8-55b0-42ef-9de6-c1434a4c46df
+# 📸 Screenshots
+
+### Homepage
+![Homepage](https://github.com/user-attachments/assets/2967e2e8-55b0-42ef-9de6-c1434a4c46df)
+
+### Product Page
+![Product](https://github.com/user-attachments/assets/3a6b1479-7053-459b-8a90-c18cf937cb23)
+
+### Cart
+![Cart](https://github.com/user-attachments/assets/0a1fc1f6-220f-4a9d-b56c-40d5b465a44c)
+
+### Checkout
+![Checkout](https://github.com/user-attachments/assets/311794d1-489d-4e01-97f7-f07946efe419)
+
+### User Profile
+![Profile](https://github.com/user-attachments/assets/1fb85216-694f-4fc8-b1e4-3cbd2b5651c7)
+
 
