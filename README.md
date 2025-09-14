@@ -1,10 +1,6 @@
+<img width="1856" height="893" alt="Screenshot 2025-09-14 145406" src="https://github.com/user-attachments/assets/0e645edb-c1b4-4de0-895f-c726e0ca25b7" />
+
 # 🛒 Ecommerce Web Application  
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Django](https://img.shields.io/badge/Django-3.x-green.svg)](https://www.djangoproject.com/)  
-[![Database](https://img.shields.io/badge/SQLite-Default-lightgrey.svg)](https://www.sqlite.org/)  
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-
 
 A full-stack **Django-based E-commerce platform** that allows users to browse products, manage carts and wishlists, place orders, and maintain profiles. The project includes authentication, admin functionality, and dynamic product management.
 
@@ -91,8 +87,7 @@ REST API endpoints for mobile app integration
 
 Docker containerization for deployment
 
-# 📸 Screenshots
-<img width="1856" height="893" alt="Screenshot 2025-09-14 145406" src="https://github.com/user-attachments/assets/0e645edb-c1b4-4de0-895f-c726e0ca25b7" />
+
 
 
 
